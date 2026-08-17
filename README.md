@@ -103,7 +103,7 @@ During the initial installation, Workbook Painter copies the supplied `Paintbrus
 
 If the installed CSV is later deleted or missing, Workbook Painter automatically creates a replacement CSV containing the required headers.
 
-The CSV contains the theme colors along with supporting information such as category, favorites, tags, usage count, and last-used date.
+The CSV contains the theme colors along with supporting information such as category, favorites, and tags.
 
 ## Important Notes
 
